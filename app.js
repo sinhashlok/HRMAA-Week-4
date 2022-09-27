@@ -54,7 +54,7 @@ app.get("/getAll", (req, res) => {
   });
 });
 
-// BT
+// Get users by First Name
 app.get("/", (req, res) => {
   const name = req.query.fname;
 
