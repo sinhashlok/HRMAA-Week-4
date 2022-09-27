@@ -43,4 +43,4 @@ Enter <b>`http://localhost:3000/getAll`</b><br><br>
 
 `GET` user by First Name (fname)<br>
 Enter <b>`http://localhost:3000?fname=<fname>`</b><br>
-##### fname: first name of the require user
+##### fname: first name of the required user
