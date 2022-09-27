@@ -6,18 +6,19 @@ This project allows use to store users data:
 <li>Phone Number (phone)</li>
 in <b>MongoDB</b> on your <u>local storage.</u><br><br>
 
-#### NOTE
-##### You will need Mongodb installed on your system
-##### Database name: week4
-##### Collection: addresses
-<br><br>
+<small>NOTE<br>
+You will need Mongodb installed on your system<br>
+ Database name: week4<br>
+ Collection: addresses<br>
+</small>
+<br>
 
 ## How to run the program?
 - Open terminal and type
 ```
 npm start
 ```
-This will run the server on PORT: <b>`3000`</b><br><br><br>
+This will run the server on PORT: <b>`3000`</b><br><br>
 
 ## What can we do now?
 `POST` users data to database<br>
@@ -42,3 +43,4 @@ Enter <b>`http://localhost:3000/getAll`</b><br><br>
 
 `GET` user by First Name (fname)<br>
 Enter <b>`http://localhost:3000?fname=<fname>`</b><br>
+##### fname: first name of the require user
