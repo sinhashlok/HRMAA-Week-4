@@ -1,4 +1,4 @@
-# HRMAA-Week-4
+# User Data Storage
 This project allows use to store users data:
 <li>First Name (fname)</li> 
 <li>Last Name (lname)</li>
